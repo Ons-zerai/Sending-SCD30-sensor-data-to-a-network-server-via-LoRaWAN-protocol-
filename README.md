@@ -3,7 +3,7 @@
                                              /***** Sending data to a network server via LoRaWAN protocol *****/ 
                                              *******************************************************************
 
-                                           /// This project was build using STM32CubeIDE with HAL librairies ///
+                                           /// This project was built using STM32CubeIDE with HAL librairies ///
 
 
 To use this driver, you must import the project named LoRaWAN_End_Node from STM32WL firmware then you ought to activate I2C communication and generate the code.
